@@ -11,3 +11,11 @@ Key Features:
 * V1-V28 : Anonymized features representing various transaction attributes (e.g., time, location, etc.)
 * Amount : The transaction amount
 * Class : Binary label indicating whether the transaction is fraudulent (1) or not (0)
+
+* Dataset Source:
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
+
+Main Theme of this project:
+
+Performing exploratory data analysis using data science techniques in Python/Jupyter Notebook and build machine-learning models for detecting credit-card frauds.
