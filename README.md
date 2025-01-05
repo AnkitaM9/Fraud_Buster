@@ -18,4 +18,4 @@ https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dat
 
 Main Theme of this project:
 
-Performing exploratory data analysis using data science techniques in Python/Jupyter Notebook and build machine-learning models for detecting credit-card frauds.
+Perform exploratory data analysis using data science techniques in Python/Jupyter Notebook and build machine-learning models for detecting credit-card frauds.
