@@ -22,21 +22,21 @@ Perform exploratory data analysis using data science techniques in Python/Jupyte
 
 # Features
 
-Implements autoencoders for anomaly detection.
+* Implements autoencoders for anomaly detection.
 
-Handles pre-processing and feature scaling for optimal model performance.
+* Handles pre-processing and feature scaling for optimal model performance.
 
-Provides visualizations for better interpretability.
+* Provides visualizations for better interpretability.
 
-Employs evaluation metrics such as Precision, Recall, F1 Score, and AUC-ROC
+* Employs evaluation metrics such as Precision, Recall, F1 Score, and AUC-ROC
 
 # Data Preprocessing
 
-Handling missing values.
+* Handling missing values.
 
-Standardizing numerical features.
+* Standardizing numerical features.
 
-Splitting data into training and testing sets.
+* Splitting data into training and testing sets.
 
 # Technology Stack
 
@@ -50,7 +50,7 @@ Splitting data into training and testing sets.
 
  3) Matplotlib/Seaborn (for data visualization)
 
-# Results
+# Goals
 
 The project aims to achieve:
 
