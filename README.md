@@ -19,3 +19,41 @@ https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dat
 Main Theme of this project:
 
 Perform exploratory data analysis using data science techniques in Python/Jupyter Notebook and build machine-learning models for detecting credit-card frauds.
+
+# Features
+
+Implements autoencoders for anomaly detection.
+
+Handles pre-processing and feature scaling for optimal model performance.
+
+Provides visualizations for better interpretability.
+
+Employs evaluation metrics such as Precision, Recall, F1 Score, and AUC-ROC
+
+# Data Preprocessing
+
+Handling missing values.
+
+Standardizing numerical features.
+
+Splitting data into training and testing sets.
+
+# Technology Stack
+
+* Programming Language: Python
+
+* Libraries and Frameworks:
+
+ 1)TensorFlow/Keras (for building and training autoencoders)
+
+ 2) Scikit-learn (for data preprocessing and evaluation metrics)
+
+ 3) Matplotlib/Seaborn (for data visualization)
+
+# Results
+
+The project aims to achieve:
+
+* High accuracy in detecting fraudulent transactions.
+
+* Low false positive rates to minimize disruption to legitimate transactions.
