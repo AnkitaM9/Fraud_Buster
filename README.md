@@ -44,7 +44,7 @@ Splitting data into training and testing sets.
 
 * Libraries and Frameworks:
 
-  1) TensorFlow/Keras (for building and training autoencoders)
+ 1) TensorFlow/Keras (for building and training autoencoders)
 
  2) Scikit-learn (for data preprocessing and evaluation metrics)
 
